@@ -8,4 +8,5 @@ A small Ubuntu installation guide using a bootable USB stick. <br>
 
 <h3>How to create a bootable USB stick?</h3>
 
+more to come..
 
