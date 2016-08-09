@@ -1,4 +1,4 @@
-# ubuntu-installation-doc
+# ubuntu-installation-doc (under development)
 A small Ubuntu installation guide using a bootable USB stick. <br>
 
 <h2>Step 1: Create a bootable USB stick</h2>
