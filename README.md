@@ -1,4 +1,4 @@
-# ubuntu-installation-doc (under development)
+# ubuntu-installation-guide (under development)
 A small Ubuntu installation guide for your laptop/desktop using a bootable USB stick. <br>
 
 <h2>Step 1: Download Ubuntu</h2>
