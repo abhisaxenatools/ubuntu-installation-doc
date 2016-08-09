@@ -5,11 +5,10 @@ A small Ubuntu installation guide for your laptop/desktop using a bootable USB s
 <p>Check your system requirements <a href="http://www.ubuntu.com/download/desktop">here</a>.</p><br>
 
 <p>You can download Ubuntu via..</p>
-	<ul>
-		<li>your browser</li>
-		<li>torrents</li>
-	</ul>
-
+<ul>
+<li><a href="http://www.ubuntu.com/download/desktop/contribute?version=16.04.1&architecture=amd64">your browser.</a></li>
+<li><a href="http://www.ubuntu.com/download/alternative-downloads">torrents.</a>(See BitTorrent section)</li>
+<ul>
 
 <h2>Step 2: Create a bootable USB stick</h2>
 
@@ -19,4 +18,3 @@ A small Ubuntu installation guide for your laptop/desktop using a bootable USB s
 <h3>How to create a bootable USB stick?</h3>
 
 more to come..
-
