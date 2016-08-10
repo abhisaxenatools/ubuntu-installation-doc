@@ -8,16 +8,16 @@ A small Ubuntu installation guide for your laptop/desktop using a bootable USB s
 <p>Open DirectX Diagnostic Tool using these steps.. </p>
 <ul>
 	<li>Open <strong>Run</strong>.</li>
-	<li>Type <strong>dxdiag</strong> and press <strong>Enter</strong>.</li>
+	<li>Type <code>dxdiag</code> and press <strong>Enter</strong>.</li>
 </ul>
 <h4>Ubuntu users</h4>
 <ul>
 	<li>Open <strong>Terminal</strong>.</li>
-	<li>Run <strong>lshw</strong> command. <strong>lshw</strong> stands for <strong>list hardware</strong>. As the name suggests, this will present a list of your hardware configuration.<li>
+	<li>Run <code>lshw</code> command. <code>lshw</code> stands for <strong>list hardware</strong>. As the name suggests, this will present a list of your hardware configuration.</li>
 </ul>
 
 
-<p>You can download Ubuntu via..</p>
+<h3>You can download Ubuntu via..</h3>
 <ul>
 <li>simply using your browser from <a href="http://www.ubuntu.com/download/desktop/contribute?version=16.04.1&architecture=amd64">here</a>.</li>
 <li><a href="http://www.ubuntu.com/download/alternative-downloads">torrents</a>.(See BitTorrent section)</li>
