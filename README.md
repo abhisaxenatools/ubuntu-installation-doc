@@ -20,4 +20,4 @@ You require an <strong>Internet</strong> connection, a <strong>USB stick</strong
 <h4>Windows users</h4>
 <p>Follow the instructions given <a href="http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows">here</a>.</p>
 <h4>Ubuntu users</h4>
-<p>Follow the instructions given <a href="http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu">here</a>.</p>
+<p><a href="http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu">This way</a>.</p>
