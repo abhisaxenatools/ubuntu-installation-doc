@@ -1,6 +1,7 @@
 # ubuntu-installation-guide (under development)
 A small Ubuntu installation guide for your laptop/desktop using a bootable USB stick. <br>
 
+You require an <strong>Internet</strong> connection, a <strong>USB stick</strong> and of course, a <strong>PC</strong> to use this guide.<br>
 
 <h2>Step 1: Download Ubuntu</h2>
 <h3>You can download Ubuntu via..</h3>
