@@ -20,3 +20,5 @@ A small Ubuntu installation guide for your laptop/desktop using a bootable USB s
 <p>Follow the instructions given <a href="http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows">here</a>.</p>
 <h4>Ubuntu users</h4>
 <p>Follow the instructions given <a href="http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu">here</a>.</p>
+
+<p>more to come..</p>
