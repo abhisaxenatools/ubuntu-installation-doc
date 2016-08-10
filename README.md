@@ -3,6 +3,19 @@ A small Ubuntu installation guide for your laptop/desktop using a bootable USB s
 
 <h2>Step 1: Download Ubuntu</h2>
 <p>Check your system requirements <a href="http://www.ubuntu.com/download/desktop">here</a>.</p>
+<h3>Check your system configuration</h3>
+<h4>Windows users</h4>
+<p>Open DirectX Diagnostic Tool using these steps.. </p>
+<ul>
+	<li>Open <strong>Run</strong>.</li>
+	<li>Type <strong>dxdiag</strong> and press <strong>Enter</strong>.</li>
+</ul>
+<h4>Ubuntu users</h4>
+<ul>
+	<li>Open <strong>Terminal</strong>.</li>
+	<li>Run <strong>lshw</strong> command. <strong>lshw</strong> stands for <strong>list hardware</strong>. As the name suggests, this will present a list of your hardware configuration.<li>
+</ul>
+
 
 <p>You can download Ubuntu via..</p>
 <ul>
@@ -20,5 +33,3 @@ A small Ubuntu installation guide for your laptop/desktop using a bootable USB s
 <p>Follow the instructions given <a href="http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows">here</a>.</p>
 <h4>Ubuntu users</h4>
 <p>Follow the instructions given <a href="http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu">here</a>.</p>
-
-<p>more to come..</p>
